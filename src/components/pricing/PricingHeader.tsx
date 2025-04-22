@@ -8,7 +8,7 @@ const PricingHeader: React.FC = () => {
         <Server size={48} className="text-[#98FFB3]" />
       </div>
       <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-[#98FFB3] to-[#98F5FF]">
-        Cloud Hosting Solutions
+        PixelMint
       </h1>
       <p className="text-[#B3B3B3] max-w-2xl mx-auto text-lg">
         High-performance, secure, and scalable hosting for your applications.
